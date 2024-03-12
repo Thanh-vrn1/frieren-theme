@@ -5,11 +5,11 @@
  * @description A theme with frieren this a remake from VaporousCreeper
  */
 
-@import url('https://raw.githubusercontent.com/Thanh-vrn1/better_discord/main/Frieren');
+@import url('https://raw.githubusercontent.com/Thanh-vrn1/main-theme/main/main%20theme.css');
 @import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
 
 :root{
-    --background: url('https://images.alphacoders.com/133/1338277.png');
+    --background: url('https://github.com/Thanh-vrn1/frieren-theme/blob/main/frieren-min.png?raw=true');
     --activetext-colour: white;
 
     --primary1-colour: blue;
