@@ -9,21 +9,24 @@
     --background: url('https://github.com/Thanh-vrn1/frieren-theme/blob/main/frieren-min.png?raw=true');
     --activetext-colour: white;
 
-    --primary1-colour: blue;
-    --primary2-colour: rgba(0, 4, 255, 0.5);
-    --primary3-colour: rgba(46, 65, 173, 0.6);
+    --primary1-colour: rgb(12, 12, 240);
+    --primary2-colour: rgba(30, 17, 206, 0.5);
+    --primary3-colour: rgba(8, 45, 253, 0);
 
     --secondary1-colour: rgba(50,50,50,0.3);
     --secondary2-colour: rgba(100,100,100,0.5);
     --secondary3-colour: rgba(0,0,0,0.5);
 
-    --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-    --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-    --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-    --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-    --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgb(21, 20, 81, 0));
+    --transparency-2: linear-gradient(to right, rgba(21, 20, 81, 0), rgba(0,0,0,0.5));
+    --transparency-3: linear-gradient(to right, rgba(21, 20, 81, 0), rgba(21, 20, 81, 0));
+    --transparency-4: linear-gradient(to right, rgba(21, 20, 81, 0), rgba(21, 20, 81, 0));
+    --transparency-5: linear-gradient(to right, rgba(21, 20, 81, 0), rgba(21, 20, 81, 0));
 }
    
+ /*
+ Theme remixed by Thanh
+
 /*--------------------------------------------------------*/
 #app-mount {
     background: var(--background-image);
